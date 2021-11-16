@@ -1,4 +1,4 @@
-const descriptors = [
+module.exports.descriptors = [
     'forest',
     'ancient',
     'petrifed ',
@@ -15,10 +15,10 @@ const descriptors = [
     'ocean',
     'sea',
     'sky',
-    'dusty',
+    'dusty'
     
 ]
-const places = [
+module.exports.places = [
     'flats',
     'village',
     'path',
@@ -35,6 +35,6 @@ const places = [
     'trees',
     'cove',
     'island',
-    'shores',
+    'shores'
     
 ]
